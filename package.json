@@ -17,5 +17,8 @@
     "url": "https://github.com/MarielaMari/backend/issues"
   },
   "homepage": "https://github.com/MarielaMari/backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
