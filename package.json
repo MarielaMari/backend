@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,5 +8,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarielaMari/backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarielaMari/backend/issues"
+  },
+  "homepage": "https://github.com/MarielaMari/backend#readme",
+  "description": ""
 }
